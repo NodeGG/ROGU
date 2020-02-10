@@ -1,23 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/0vkxIMN.png"></p>
-
-## Usage
-
-### Create an App
-
-```zsh
-# with `nextron`
-$ nextron init my-app --example with-javascript-material-ui
-
-# with npx
-$ npx create-nextron-app my-app --example with-javascript-material-ui
-
-# with yarn
-$ yarn create nextron-app my-app --example with-javascript-material-ui
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-javascript-material-ui
-```
-
 ### Install Dependencies
 
 ```zsh
