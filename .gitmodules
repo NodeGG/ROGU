@@ -1,0 +1,2 @@
+[submodule "renderer/RogueIO"]
+	url = https://github.com/NodeGG/RogueIO.git
