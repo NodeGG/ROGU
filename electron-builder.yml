@@ -1,6 +1,6 @@
-appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+appId: com.rogu.nextron
+productName: Rogu Engine
+copyright: Copyright © 2020 Node GG
 directories:
   output: dist
   buildResources: resources
