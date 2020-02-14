@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Head from 'next/head';
 import { Canvas, FileViewer, TextEditor } from '../components';
 
 const Index = () => (
@@ -23,7 +22,7 @@ const Index = () => (
       <div className="">
         <FileViewer />
       </div>
-      <div className="flex-column w-100">
+      <div className="d-flex flex-column w-100 justify-content-between">
         <Canvas css="w-100" />
         <TextEditor css="w-100 flex-fill" />
       </div>

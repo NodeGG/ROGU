@@ -4,9 +4,7 @@ export default class extends Component {
   render() {
     return (
       <canvas
-        className={`${
-          (this.props.css !== undefined ? this.props.css : '')}`
-        }
+        className={`${this.props.css !== undefined ? this.props.css : ''}`}
       />
     );
   }

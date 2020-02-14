@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "rogu",
-  "description": "My application description",
+  "description": "The Rogue.io Game Engine",
   "version": "1.0.0",
   "author": "Warren Gates <warrenckhan@gmail.com>",
   "main": "app/background.js",

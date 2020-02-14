@@ -1,7 +1,7 @@
 const withCSS = require('@zeit/next-css');
 
 module.exports = withCSS({
-  webpack: (config) => {
+  webpack: config => {
     config.target = 'electron-renderer';
 
     config.module.rules = [
